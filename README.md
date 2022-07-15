@@ -1,1 +1,1 @@
-# SpringSecurity - Example demonstrates login using database with specific roles.
+# SpringSecurity - Example demonstrates login using database with specificed roles.
